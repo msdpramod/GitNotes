@@ -1,3 +1,3 @@
 # GitNotes
 
-**[Intro Git and GitHub]()
+* [Intro Git and GitHub]()
